@@ -3,21 +3,28 @@
     "height": 118,
     "pixelRatio": 1,
     "width": 62,
-    "x": 0,
+    "x": 410,
     "y": 0
   },
   "tree2": {
     "height": 91,
     "pixelRatio": 1,
     "width": 62,
-    "x": 62,
+    "x": 472,
     "y": 0
   },
   "tree_pat2": {
-    "height": 34,
+    "height": 341,
     "pixelRatio": 1,
-    "width": 41,
+    "width": 410,
     "x": 0,
-    "y": 118
+    "y": 0
+  },
+  "vintagebck": {
+    "height": 61,
+    "pixelRatio": 1,
+    "width": 51,
+    "x": 534,
+    "y": 0
   }
 }
