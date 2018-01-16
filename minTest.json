@@ -1,31 +1,52 @@
 {
+  "dobbel": {
+    "height": 56,
+    "pixelRatio": 1,
+    "width": 807,
+    "x": 0,
+    "y": 341
+  },
+  "dotted": {
+    "height": 37,
+    "pixelRatio": 1,
+    "width": 793,
+    "x": 0,
+    "y": 397
+  },
+  "enkel": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 801,
+    "x": 0,
+    "y": 508
+  },
   "pattern": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 672,
+    "x": 472,
     "y": 0
   },
-  "topography": {
-    "height": 200,
+  "squily": {
+    "height": 37,
     "pixelRatio": 1,
-    "width": 200,
-    "x": 410,
-    "y": 0
+    "width": 801,
+    "x": 0,
+    "y": 434
   },
   "tree": {
     "height": 118,
     "pixelRatio": 1,
     "width": 62,
-    "x": 610,
+    "x": 410,
     "y": 0
   },
   "tree2": {
     "height": 91,
     "pixelRatio": 1,
     "width": 62,
-    "x": 0,
-    "y": 341
+    "x": 572,
+    "y": 0
   },
   "tree_pat2": {
     "height": 341,
@@ -33,5 +54,12 @@
     "width": 410,
     "x": 0,
     "y": 0
+  },
+  "water": {
+    "height": 37,
+    "pixelRatio": 1,
+    "width": 785,
+    "x": 0,
+    "y": 471
   }
 }
