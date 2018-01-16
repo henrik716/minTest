@@ -12,5 +12,12 @@
     "width": 62,
     "x": 62,
     "y": 0
+  },
+  "tree_pat": {
+    "height": 42,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 0,
+    "y": 118
   }
 }
