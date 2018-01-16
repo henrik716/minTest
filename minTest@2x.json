@@ -1,17 +1,24 @@
 {
+  "clipboard": {
+    "height": 38,
+    "pixelRatio": 1,
+    "width": 78,
+    "x": 0,
+    "y": 118
+  },
   "clipboard_vectorized": {
     "height": 13,
     "pixelRatio": 1,
     "width": 187,
     "x": 0,
-    "y": 148
+    "y": 156
   },
   "enkel": {
     "height": 30,
     "pixelRatio": 1,
     "width": 176,
-    "x": 0,
-    "y": 118
+    "x": 124,
+    "y": 0
   },
   "tree": {
     "height": 118,
@@ -31,7 +38,7 @@
     "height": 37,
     "pixelRatio": 1,
     "width": 160,
-    "x": 124,
-    "y": 0
+    "x": 78,
+    "y": 118
   }
 }
