@@ -2,23 +2,30 @@
   "dobbel": {
     "height": 45,
     "pixelRatio": 1,
-    "width": 646,
+    "width": 146,
     "x": 124,
     "y": 0
   },
   "dotted": {
-    "height": 30,
+    "height": 37,
     "pixelRatio": 1,
-    "width": 635,
+    "width": 168,
     "x": 0,
     "y": 118
   },
-  "squily": {
+  "enkel": {
     "height": 30,
     "pixelRatio": 1,
-    "width": 641,
-    "x": 635,
-    "y": 118
+    "width": 176,
+    "x": 0,
+    "y": 229
+  },
+  "squily": {
+    "height": 37,
+    "pixelRatio": 1,
+    "width": 176,
+    "x": 0,
+    "y": 155
   },
   "tree": {
     "height": 118,
@@ -35,10 +42,10 @@
     "y": 0
   },
   "water": {
-    "height": 30,
+    "height": 37,
     "pixelRatio": 1,
-    "width": 628,
+    "width": 160,
     "x": 0,
-    "y": 148
+    "y": 192
   }
 }
