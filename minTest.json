@@ -4,49 +4,56 @@
     "pixelRatio": 1,
     "width": 176,
     "x": 0,
-    "y": 219
+    "y": 233
   },
   "line-32": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
     "x": 160,
-    "y": 182
+    "y": 196
   },
   "linev2-32": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
     "x": 192,
-    "y": 182
+    "y": 196
+  },
+  "skravur_skraa": {
+    "height": 78,
+    "pixelRatio": 1,
+    "width": 90,
+    "x": 0,
+    "y": 118
   },
   "texture-32": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 192,
-    "y": 118
+    "x": 188,
+    "y": 0
   },
   "texture-64": {
     "height": 64,
     "pixelRatio": 1,
     "width": 64,
-    "x": 0,
+    "x": 90,
     "y": 118
   },
   "texture-dktan-64": {
     "height": 64,
     "pixelRatio": 1,
     "width": 64,
-    "x": 64,
+    "x": 154,
     "y": 118
   },
   "texture-lttan-64": {
     "height": 64,
     "pixelRatio": 1,
     "width": 64,
-    "x": 128,
-    "y": 118
+    "x": 124,
+    "y": 0
   },
   "tree": {
     "height": 118,
@@ -67,6 +74,6 @@
     "pixelRatio": 1,
     "width": 160,
     "x": 0,
-    "y": 182
+    "y": 196
   }
 }
