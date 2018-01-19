@@ -35,15 +35,22 @@
     "y": 55
   },
   "pencil4": {
-    "height": 280,
+    "height": 260,
     "pixelRatio": 6,
-    "width": 370,
-    "x": 70,
+    "width": 340,
+    "x": 130,
     "y": 570
   },
-  "pencil5": {
+  "pencil5_small": {
     "height": 245,
     "pixelRatio": 6,
+    "width": 250,
+    "x": 570,
+    "y": 565
+  },
+  "pencil5_big": {
+    "height": 245,
+    "pixelRatio": 3,
     "width": 250,
     "x": 570,
     "y": 565
