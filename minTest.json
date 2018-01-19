@@ -20,9 +20,16 @@
     "x": 65,
     "y": 55
   },
-  "pencil3_big": {
+  "pencil3_medium": {
     "height": 400,
     "pixelRatio": 6,
+    "width": 480,
+    "x": 65,
+    "y": 55
+  },
+  "pencil3_big": {
+    "height": 400,
+    "pixelRatio": 3,
     "width": 480,
     "x": 65,
     "y": 55
