@@ -26,5 +26,12 @@
     "width": 300,
     "x": 60,
     "y": 60
+  },
+  "pencil3_big": {
+    "height": 400,
+    "pixelRatio": 6,
+    "width": 300,
+    "x": 60,
+    "y": 60
   }
 }
