@@ -3,28 +3,28 @@
     "height": 142,
     "pixelRatio": 1,
     "width": 142,
-    "x": 310,
-    "y": 530
+    "x": 330,
+    "y": 550
   },
   "pencil1": {
     "height": 225,
     "pixelRatio": 6,
     "width": 290,
-    "x": 0,
-    "y": 530
+    "x": 20,
+    "y": 550
   },
   "pencil2": {
     "height": 371,
     "pixelRatio": 6,
     "width": 372,
-    "x": 615,
-    "y": 0
+    "x": 635,
+    "y": 20
   },
   "pencil3": {
     "height": 510,
     "pixelRatio": 8,
     "width": 595,
-    "x": 0,
-    "y": 0
+    "x": 20,
+    "y": 20
   }
 }
