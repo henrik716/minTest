@@ -1,5 +1,5 @@
 {
-  "pencil1": {
+    "pencil1": {
     "height": 170,
     "pixelRatio": 6,
     "width": 220,
@@ -33,5 +33,19 @@
     "width": 480,
     "x": 65,
     "y": 55
+  },
+  "pencil4": {
+    "height": 280,
+    "pixelRatio": 6,
+    "width": 400,
+    "x": 55,
+    "y": 570
+  },
+  "pencil5": {
+    "height": 245,
+    "pixelRatio": 1,
+    "width": 250,
+    "x": 570,
+    "y": 565
   }
 }
