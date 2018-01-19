@@ -37,13 +37,13 @@
   "pencil4": {
     "height": 280,
     "pixelRatio": 6,
-    "width": 400,
-    "x": 55,
+    "width": 370,
+    "x": 70,
     "y": 570
   },
   "pencil5": {
     "height": 245,
-    "pixelRatio": 1,
+    "pixelRatio": 6,
     "width": 250,
     "x": 570,
     "y": 565
