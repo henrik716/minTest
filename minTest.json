@@ -1,37 +1,23 @@
 {
-  "grunge": {
-    "height": 162,
-    "pixelRatio": 1,
-    "width": 162,
-    "x": 310,
-    "y": 530
-  },
   "pencil1": {
-    "height": 220,
+    "height": 245,
     "pixelRatio": 6,
-    "width": 170,
+    "width": 310,
     "x": 0,
     "y": 530
   },
   "pencil2": {
-    "height": 280,
+    "height": 391,
     "pixelRatio": 6,
-    "width": 280,
+    "width": 392,
     "x": 615,
     "y": 0
   },
   "pencil3": {
     "height": 400,
     "pixelRatio": 10,
-    "width": 290,
-    "x": 60,
-    "y": 60
-  },
-  "pencil3_big": {
-    "height": 400,
-    "pixelRatio": 6,
-    "width": 290,
-    "x": 60,
-    "y": 60
+    "width": 480,
+    "x": 65,
+    "y": 55
   }
 }
