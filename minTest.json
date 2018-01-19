@@ -1,8 +1,29 @@
 {
   "grunge": {
-    "height": 120,
+    "height": 130,
     "pixelRatio": 6,
-    "width": 120,
+    "width": 130,
+    "x": 320,
+    "y": 520
+  },
+  "pencil1": {
+    "height": 245,
+    "pixelRatio": 8,
+    "width": 310,
+    "x": 20,
+    "y": 550
+  },
+  "pencil2": {
+    "height": 391,
+    "pixelRatio": 8,
+    "width": 400,
+    "x": 635,
+    "y": 0
+  },
+  "pencil3": {
+    "height": 530,
+    "pixelRatio": 10,
+    "width": 615,
     "x": 20,
     "y": 20
   }
