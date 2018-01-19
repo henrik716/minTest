@@ -1,19 +1,19 @@
 {
   "pencil1": {
-    "height": 245,
+    "height": 190,
     "pixelRatio": 6,
-    "width": 310,
-    "x": 0,
-    "y": 530
+    "width": 240,
+    "x": 35,
+    "y": 555
   },
   "pencil2": {
-    "height": 391,
+    "height": 300,
     "pixelRatio": 6,
-    "width": 392,
-    "x": 615,
-    "y": 0
+    "width": 300,
+    "x": 655,
+    "y": 40
   },
-  "pencil3": {
+  "pencil3_small": {
     "height": 400,
     "pixelRatio": 10,
     "width": 480,
