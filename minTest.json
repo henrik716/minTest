@@ -34,6 +34,27 @@
     "x": 727,
     "y": 60
   },
+  "mountains2_small": {
+    "height": 234,
+    "pixelRatio": 8,
+    "width": 239,
+    "x": 1364,
+    "y": 710
+  },
+  "mountains2_medium": {
+    "height": 234,
+    "pixelRatio": 6,
+    "width": 239,
+    "x": 1364,
+    "y": 710
+  },
+  "mountains2_big": {
+    "height": 234,
+    "pixelRatio": 4,
+    "width": 239,
+    "x": 1364,
+    "y": 710
+  },
   "pencil1": {
     "height": 300,
     "pixelRatio": 6,
