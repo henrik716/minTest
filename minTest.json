@@ -1,7 +1,21 @@
 {
-  "mountains_1": {
+  "mountains1_small": {
     "height": 479,
-    "pixelRatio": 1,
+    "pixelRatio": 10,
+    "width": 382,
+    "x": 50,
+    "y": 61
+  },
+  "mountains1_medium": {
+    "height": 479,
+    "pixelRatio": 7,
+    "width": 382,
+    "x": 50,
+    "y": 61
+  },
+  "mountains1_big": {
+    "height": 479,
+    "pixelRatio": 5,
     "width": 382,
     "x": 50,
     "y": 61
