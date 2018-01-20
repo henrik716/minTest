@@ -1,5 +1,12 @@
 {
-  "forest1": {
+  "forest1_small": {
+    "height": 545,
+    "pixelRatio": 5,
+    "width": 535,
+    "x": 66,
+    "y": 69
+  },
+  "forest1_big": {
     "height": 545,
     "pixelRatio": 4,
     "width": 535,
