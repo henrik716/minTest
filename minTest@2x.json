@@ -1,65 +1,72 @@
 {
+  "forest1": {
+    "height": 545,
+    "pixelRatio": 1,
+    "width": 542,
+    "x": 66,
+    "y": 69
+  },
   "mountains1_small": {
     "height": 479,
     "pixelRatio": 10,
     "width": 382,
-    "x": 50,
-    "y": 61
+    "x": 727,
+    "y": 60
   },
   "mountains1_medium": {
     "height": 479,
     "pixelRatio": 7,
     "width": 382,
-    "x": 50,
-    "y": 61
+    "x": 727,
+    "y": 60
   },
   "mountains1_big": {
     "height": 479,
     "pixelRatio": 5,
     "width": 382,
-    "x": 50,
-    "y": 61
+    "x": 727,
+    "y": 60
   },
   "pencil1": {
     "height": 300,
     "pixelRatio": 6,
     "width": 300,
-    "x": 655,
-    "y": 40
+    "x": 654,
+    "y": 720
   },
   "pencil2_small": {
     "height": 400,
     "pixelRatio": 10,
     "width": 480,
     "x": 65,
-    "y": 55
+    "y": 740
   },
   "pencil2_medium": {
     "height": 400,
     "pixelRatio": 6,
     "width": 480,
     "x": 65,
-    "y": 55
+    "y": 740
   },
   "pencil2_big": {
     "height": 400,
     "pixelRatio": 3,
     "width": 480,
     "x": 65,
-    "y": 55
+    "y": 740
   },
   "pencil3_small": {
     "height": 245,
     "pixelRatio": 6,
     "width": 250,
-    "x": 570,
-    "y": 565
+    "x": 1040,
+    "y": 713
   },
   "pencil3_big": {
     "height": 245,
-    "pixelRatio": 3,
+    "pixelRatio": 4,
     "width": 250,
-    "x": 570,
-    "y": 565
+    "x": 1040,
+    "y": 713
   }
 }
