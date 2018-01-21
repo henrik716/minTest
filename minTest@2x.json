@@ -96,5 +96,12 @@
     "width": 250,
     "x": 1040,
     "y": 713
-  }
+  },
+  "mountain_symbol": {
+    "height": 199,
+    "pixelRatio": 2,
+    "width": 427,
+    "x": 1680,
+    "y": 700
+	}
 }
